@@ -1,4 +1,4 @@
-# Book Catalog API
+# Music Catalog API
 
 REST API для управления пользователями, книгами и авторами на FastAPI + SQLAlchemy + SQLite.
 
